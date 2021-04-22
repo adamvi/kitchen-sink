@@ -14,3 +14,5 @@ background-opacity : 15
 transition : none
 published : true
 footnote : "GitPitch [ Black Binary ] Presentation Template"
+mathjax : TeX-AMS_HTML-full
+charts : true
